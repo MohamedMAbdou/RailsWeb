@@ -14,5 +14,6 @@ user_type = UserType.create([
     {type_title: 'Bookworm'},
     {type_title: 'Author'},
     {type_title: 'Librarian'},
-    {type_title: 'Hub Admin'}
+    {type_title: 'Hub Admin'},
+    {type_title: 'Super Admin'}
     ])
